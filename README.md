@@ -1,4 +1,6 @@
 # Moving Away from the DOM
+TEST TEST TEST
+
 
 Congratulations! You are now able to understand how Javascript interacts with
 websites through the DOM. That's a big deal. Take a few seconds, breathe in,
